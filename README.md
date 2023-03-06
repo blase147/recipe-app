@@ -87,7 +87,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd blog-app
-  git clone https://github.com/kaizipaul/recipe-app.git
+  git clone https://github.com/blase147/recipe-app.git
 ```
 
 ### Install
@@ -115,11 +115,6 @@ To run the project, execute the following command:
 - [GitHub](https://github.com/blase147)
 - [Twitter](https://twitter.com/ChukwumaMosanya)
 - [LinkedIn](https://www.linkedin.com/in/chukwuma-mosanya)
-
-👤 **Paul Kaizirege Vedasto**
-
-- GitHub: [@kaizipaul](https://github.com/kaizipaul)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/kaizipaul)
 
 
 <p align="right"><a href="#readme-top">back to top</a></p>
